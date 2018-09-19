@@ -1,6 +1,9 @@
 Microbit hex files & their video explanation.
 
-microbit-Coin-Flip.hex https://www.youtube.com/watch?v=air5Z2m6Cbc
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=air5Z2m6Cbc">
+</iframe> 
+microbit-Coin-Flip.hex  
 
 microbit-Compass.hex https://www.youtube.com/watch?v=-YrOZ9EPsmw
 
